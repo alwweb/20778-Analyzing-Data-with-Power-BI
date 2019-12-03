@@ -91,7 +91,7 @@
 
 5. In Internet Explorer, click **SIGN IN**, enter your email address and password, click **Sign in**, and wait for the report to open.
 
-6. When the report is visible, click **Pin Live Page**.
+6. When the report is visible, click **Pin a Live Page**.
 
 7. In the **Pin to dashboard** dialog box, click **New dashboard**.
 
@@ -99,7 +99,7 @@
 
 9. Expand **My Workspace**, the dashboard will appear under the **Dashboards** list.
 
-10. Expand **Workspaces**, and then click **Create app workspace**.
+10. Expand **Workspaces**, and then click **Create a workspace**.
 
 11. In the **Workspace** **name** box, type **Adventure Works Sales 2**.
 
